@@ -1,0 +1,8 @@
+Landing: Métodos Filtrados, Nivel Intermedio · Mérida
+Edición: 21 y 22 de noviembre de 2026, de 9:00am a 3:30pm.
+
+Para publicar con GitHub Pages, sube el CONTENIDO de esta carpeta a la raíz del repositorio que usará la página: index.html, og-image.jpg y la carpeta img/ completa. Conserva exactamente los nombres y la estructura de archivos.
+
+Esta carpeta es una copia lista para publicar. El contenido editable está en filtrados-basico-playa/cursos/filtrados-intermedio-merida/curso.json; si cambian los datos, regenera la página y vuelve a copiar los archivos.
+
+Cuando conozcas la URL pública, configúrala en meta.url del archivo editable y regenera la página para que la imagen de vista previa de WhatsApp tenga una URL absoluta. La página funciona sin ese paso, pero la vista previa al compartirla puede no mostrar la imagen.
