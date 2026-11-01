@@ -5,4 +5,6 @@ Para publicar con GitHub Pages, sube todos los archivos de esta carpeta a la ra�
 
 Esta carpeta es una copia lista para publicar, con las rutas de imágenes adaptadas para archivos sueltos. El contenido editable está en filtrados-basico-playa/cursos/filtrados-intermedio-merida/curso.json; si cambian los datos y regeneras la página, adapta de nuevo las rutas antes de subir la nueva versión.
 
+Las animaciones están integradas en index.html; no necesitas subir archivos CSS o JavaScript adicionales.
+
 Cuando conozcas la URL pública, configúrala en meta.url del archivo editable y regenera la página para que la imagen de vista previa de WhatsApp tenga una URL absoluta. La página funciona sin ese paso, pero la vista previa al compartirla puede no mostrar la imagen.
